@@ -30,12 +30,12 @@ let undefined;
 console.log(undefined);
 
 
-const car{
+const car = {
     type:"Chevrolet",
     name:"Mers",
     position: 4,
-    color: "Black"
-    isElectric: true
+    color: "Black",
+    isElectric: true,
 }
 
 console.log(car)
